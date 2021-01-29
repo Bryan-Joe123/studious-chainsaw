@@ -3,7 +3,7 @@ var gameState;
 function setup(){
   createCanvas(windowWidth-20,windowHeight-20);
 
-  gameState="planet3";
+  gameState="menu";
 
   backgroundMusic.play(true);
   
